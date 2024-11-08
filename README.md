@@ -19,6 +19,6 @@
 5. [Lab 05](https://github.com/2303A51098/AIML-2025/blob/main/Lab05_AIML.ipynb): Introduction to Python Libraries-Numpy
 6. [Lab 06](): Introduction to Python Libraries-Numpy
 7. [Lab 07](): Introduction to Python Libraries-Numpy
-8. [Lab 08](): Introduction to Python Libraries-Numpy
+8. [Lab 08](https://github.com/2303A51098/AIML-2025/blob/main/Lab-8_AIML.ipynb): Introduction to Python Libraries-Numpy
 9. [Lab 09](https://github.com/2303A51098/AIML-2025/blob/main/Lab_9_AIML.ipynb): Introduction to Python Libraries-Numpy
 10. [Lab 10](): Introduction to Python Libraries-Numpy
